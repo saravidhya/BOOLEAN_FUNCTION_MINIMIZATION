@@ -58,7 +58,9 @@ RegisterNumber:212223230238
 
 
 
-**Timing Diagram**
+**Truth table**
+![Screenshot 2024-03-21 090538](https://github.com/saravidhya/BOOLEAN_FUNCTION_MINIMIZATION/assets/87062069/70f06efb-69f7-4b40-89ff-8961d6234354)
+
 
 **Result:**
 
